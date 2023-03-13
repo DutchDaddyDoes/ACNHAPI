@@ -5,216 +5,216 @@
     "name": "Killer",
     "version": "BaseGame",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/1.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/1.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/1.png"
   },"killer02": {
     "id": 2,
     "file-name": "killer02",
     "name": "Killer",
     "version": "BaseGame",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/2.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/2.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/2.png"
   },"killer01": {
     "id": 3,
     "file-name": "killer03",
     "name": "Killer",
     "version": "BaseGame",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/3.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/3.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/3.png"
   },"killer01": {
     "id": 4,
     "file-name": "killer04",
     "name": "Killer",
     "version": "BaseGame",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/4.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/4.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/4.png"
   },"killer01": {
     "id": 5,
     "file-name": "killer05",
     "name": "Killer",
     "version": "BaseGame",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/5.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/5.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/5.png"
   },"killer01": {
     "id": 6,
     "file-name": "killer06",
     "name": "Killer",
     "version": "FranchiseDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/6.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/6.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/6.png"
   },"killer01": {
     "id": 7,
     "file-name": "killer07",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/7.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/7.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/7.png"
   },"killer01": {
     "id": 8,
     "file-name": "killer08",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/8.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/8.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/8.png"
   },"killer01": {
     "id": 9,
     "file-name": "killer09",
     "name": "Killer",
     "version": "FranchiseDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/9.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/9.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/9.png"
   },"killer01": {
     "id": 10,
     "file-name": "killer10",
     "name": "Killer",
     "version": "FranchiseDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/10.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/10.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/10.png"
   },"killer01": {
     "id": 11,
     "file-name": "killer11",
     "name": "Killer",
     "version": "FranchiseDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/11.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/11.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/11.png"
   },"killer01": {
     "id": 12,
     "file-name": "killer12",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/12.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/12.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/12.png"
   },"killer01": {
     "id": 13,
     "file-name": "killer13",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/13.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/13.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/13.png"
   },"killer01": {
     "id": 14,
     "file-name": "killer14",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/14.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/14.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/14.png"
   },"killer01": {
     "id": 15,
     "file-name": "killer15",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/15.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/15.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/15.png"
   },"killer01": {
     "id": 16,
     "file-name": "killer16",
     "name": "Killer",
     "version": "FranchiseDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/16.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/16.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/16.png"
   },"killer01": {
     "id": 17,
     "file-name": "killer17",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/17.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/17.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/17.png"
   },"killer01": {
     "id": 18,
     "file-name": "killer18",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/18.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/18.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/18.png"
   },"killer01": {
     "id": 19,
     "file-name": "killer19",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/19.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/19.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/19.png"
   },"killer01": {
     "id": 20,
     "file-name": "killer20",
     "name": "Killer",
     "version": "FranchiseDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/20.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/20.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/20.png"
   },"killer01": {
     "id": 21,
     "file-name": "killer21",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/21.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/21.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/21.png"
   },"killer01": {
     "id": 22,
     "file-name": "killer22",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/22.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/22.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/22.png"
   },"killer01": {
     "id": 23,
     "file-name": "killer23",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/23.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/23.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/23.png"
   },"killer01": {
     "id": 24,
     "file-name": "killer24",
     "name": "Killer",
     "version": "FranchiseDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/24.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/24.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/24.png"
   },"killer01": {
     "id": 25,
     "file-name": "killer25",
     "name": "Killer",
     "version": "FranchiseDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/25.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/25.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/25.png"
   },"killer01": {
     "id": 26,
     "file-name": "killer26",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/26.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/26.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/26.png"
   },"killer01": {
     "id": 27,
     "file-name": "killer27",
     "name": "Killer",
     "version": "FranchiseDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/27.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/27.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/27.png"
   },"killer01": {
     "id": 28,
     "file-name": "killer28",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/28.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/28.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/28.png"
   },"killer01": {
     "id": 29,
     "file-name": "killer29",
     "name": "Killer",
     "version": "FranchiseDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/29.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/29.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/29.png"
   },"killer01": {
     "id": 30,
     "file-name": "killer30",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/30.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/30.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/30.png"
   },"killer01": {
     "id": 31,
     "file-name": "killer31",
     "name": "Killer",
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/31.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/31.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/31.png"
   }
 }
