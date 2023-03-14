@@ -4,217 +4,217 @@
     "file-name": "killer01",
     "name": "The Trapper",
     "version": "BaseGame",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/1.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/1.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer1.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer1.png"
   },"killer02": {
     "id": 2,
     "file-name": "killer02",
     "name": "The Wraith",
     "version": "BaseGame",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/2.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/2.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer2.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer2.png"
   },"killer03": {
     "id": 3,
     "file-name": "killer03",
     "name": "The Hillbilly",
     "version": "BaseGame",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/3.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/3.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer3.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer3.png"
   },"killer04": {
     "id": 4,
     "file-name": "killer04",
     "name": "The Nurse",
     "version": "BaseGame",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/4.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/4.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer4.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer4.png"
   },"killer05": {
     "id": 5,
     "file-name": "killer05",
     "name": "The Huntress",
     "version": "BaseGame",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/5.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/5.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer5.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer5.png"
   },"killer06": {
     "id": 6,
     "file-name": "killer06",
     "name": "The Shape",
     "version": "FranchiseDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/6.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/6.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer6.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer6.png"
   },"killer07": {
     "id": 7,
     "file-name": "killer07",
     "name": "The Hag",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/7.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/7.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer7.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer7.png"
   },"killer08": {
     "id": 8,
     "file-name": "killer08",
     "name": "The Doctor",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/8.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/8.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer8.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer8.png"
   },"killer09": {
     "id": 9,
     "file-name": "killer09",
     "name": "The Cannibal",
     "version": "FranchiseDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/9.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/9.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer9.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer9.png"
   },"killer10": {
     "id": 10,
     "file-name": "killer10",
     "name": "The Nightmare",
     "version": "FranchiseDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/10.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/10.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer10.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer10.png"
   },"killer11": {
     "id": 11,
     "file-name": "killer11",
     "name": "The Pig",
     "version": "FranchiseDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/11.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/11.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer11.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer11.png"
   },"killer12": {
     "id": 12,
     "file-name": "killer12",
     "name": "The Clown",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/12.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/12.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer12.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer12.png"
   },"killer13": {
     "id": 13,
     "file-name": "killer13",
     "name": "The Spirit",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/13.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/13.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer13.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer13.png"
   },"killer14": {
     "id": 14,
     "file-name": "killer14",
     "name": "The Legion",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/14.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/14.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer14.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer14.png"
   },"killer15": {
     "id": 15,
     "file-name": "killer15",
     "name": "The Plague",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/15.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/15.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer15.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer15.png"
   },"killer16": {
     "id": 16,
     "file-name": "killer16",
     "name": "The Ghost Face",
     "version": "FranchiseDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/16.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/16.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer16.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer16.png"
   },"killer17": {
     "id": 17,
     "file-name": "killer17",
     "name": "The Demogorgon",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/17.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/17.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer17.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer17.png"
   },"killer18": {
     "id": 18,
     "file-name": "killer18",
     "name": "The Oni",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/18.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/18.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer18.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer18.png"
   },"killer19": {
     "id": 19,
     "file-name": "killer19",
     "name": "The Deathslinger",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/19.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/19.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer19.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer19.png"
   },"killer20": {
     "id": 20,
     "file-name": "killer20",
     "name": "The Executioner",
     "version": "FranchiseDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/20.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/20.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer20.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer20.png"
   },"killer21": {
     "id": 21,
     "file-name": "killer21",
     "name": "The Blight",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/21.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/21.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer21.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer21.png"
   },"killer22": {
     "id": 22,
     "file-name": "killer22",
     "name": "The Twins",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/22.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/22.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer22.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer22.png"
   },"killer23": {
     "id": 23,
     "file-name": "killer23",
     "name": "The Trickster",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/23.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/23.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer23.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer23.png"
   },"killer24": {
     "id": 24,
     "file-name": "killer24",
     "name": "The Nemesis",
     "version": "FranchiseDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/24.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/24.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer24.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer24.png"
   },"killer25": {
     "id": 25,
     "file-name": "killer25",
     "name": "The Cenobite",
     "version": "FranchiseDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/25.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/25.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer25.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer25.png"
   },"killer26": {
     "id": 26,
     "file-name": "killer26",
     "name": "The Artist",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/26.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/26.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer26.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer26.png"
   },"killer27": {
     "id": 27,
     "file-name": "killer27",
     "name": "The Onryõ",
     "version": "FranchiseDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/27.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/27.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer27.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer27.png"
   },"killer28": {
     "id": 28,
     "file-name": "killer28",
     "name": "The Dredge",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/28.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/28.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer28.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer28.png"
   },"killer29": {
     "id": 29,
     "file-name": "killer29",
     "name": "The Mastermind",
     "version": "FranchiseDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/29.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/29.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer29.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer29.png"
   },"killer30": {
     "id": 30,
     "file-name": "killer30",
     "name": "The Knight",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/30.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/30.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer30.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer30.png"
   },"killer31": {
     "id": 31,
     "file-name": "killer31",
     "name": "The Skull Merchant",
     "version": "OriginalDLC",
-    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/31.png",
-    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/31.png"
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer31.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer31.png"
   }
 }
