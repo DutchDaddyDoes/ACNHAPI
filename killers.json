@@ -216,5 +216,12 @@
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer31.png",
     "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer31.png"
+  },"killer32": {
+    "id": 32,
+    "file-name": "killer32",
+    "name": "The Singularity",
+    "version": "OriginalDLC",
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer32.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer32.png"
   }
 }
