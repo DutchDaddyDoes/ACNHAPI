@@ -223,5 +223,12 @@
     "version": "OriginalDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer32.png",
     "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer32.png"
+  },"killer33": {
+    "id": 33,
+    "file-name": "killer33",
+    "name": "The Xenomorph",
+    "version": "FranchiseDLC",
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer33.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer33.png"
   }
 }
