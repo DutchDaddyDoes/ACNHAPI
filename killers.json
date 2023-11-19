@@ -230,5 +230,12 @@
     "version": "FranchiseDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer33.png",
     "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer33.png"
+  },"killer34": {
+    "id": 34,
+    "file-name": "killer34",
+    "name": "The Good Guy",
+    "version": "FranchiseDLC",
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer34.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer34.png"
   }
 }
