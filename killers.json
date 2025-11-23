@@ -237,5 +237,54 @@
     "version": "FranchiseDLC",
     "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer34.png",
     "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer34.png"
+  },"killer35": {
+    "id": 35,
+    "file-name": "killer35",
+    "name": "The Unknown",
+    "version": "OriginalDLC",
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer35.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer35.png"
+  },"killer36": {
+    "id": 36,
+    "file-name": "killer36",
+    "name": "The Lich",
+    "version": "FranchiseDLC",
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer36.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer36.png"
+  },"killer37": {
+    "id": 37,
+    "file-name": "killer37",
+    "name": "Dracula",
+    "version": "FranchiseDLC",
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer37.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer37.png"
+  },"killer38": {
+    "id": 38,
+    "file-name": "killer38",
+    "name": "The Houndmaster",
+    "version": "OriginalDLC",
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer38.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer38.png"
+  },"killer39": {
+    "id": 39,
+    "file-name": "killer39",
+    "name": "The Ghoul",
+    "version": "FranchiseDLC",
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer39.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer39.png"
+  },"killer40": {
+    "id": 40,
+    "file-name": "killer40",
+    "name": "The Animatronic",
+    "version": "FranchiseDLC",
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer40.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer40.png"
+  },"killer41": {
+    "id": 41,
+    "file-name": "killer41",
+    "name": "The Krasue",
+    "version": "OriginalDLC",
+    "icon_uri": "https://dutchdaddydoes.github.io/ACNHAPI/icons/killers/killer41.png",
+    "image_uri": "https://dutchdaddydoes.github.io/ACNHAPI/images/killers/killer41.png"
   }
 }
